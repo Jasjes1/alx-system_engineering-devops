@@ -5,3 +5,4 @@ Task_3 Display current directory contents in a long format
 Task_4 Display current directory contents, including hidden files
 Task_5 Display current directory contents with user and group IDs displayed numerically and hidden files using long format
 Task_6 Create a script that creates a directory named my_first_directory in the /tmp/ directory
+Task_7 Move the file betty from /tmp/ to /tmp/my_first_directory
