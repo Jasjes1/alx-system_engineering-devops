@@ -2,3 +2,4 @@ Where am I - writes a script that displays the absolute path name of the current
 What’s in there - writes a script that displays the contents list of your current directory
 There is no place like home - writes a script that changes the working directory to the user’s home directory
 The long format - writes a script that displays current directory contents in a long format
+Hidden files - writes a script that displays current directory contents, including hidden files, using long format
