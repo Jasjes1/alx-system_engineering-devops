@@ -7,3 +7,4 @@ Write a script that adds execute permission to the owner of the file hello
 Task_6 - Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 Task_7 - Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Task_8 - Write a script that sets the permission to the file hello as follows-Owner: no permission at all- Group: no permission at all- Other users: all the permissions
+Task_9 - Write a script that sets the mode of the file hello to -rwxr-x-wx
