@@ -6,3 +6,4 @@ Task4-Create a script that lists environment variables
 Task5-Create a script that lists all local variables and environment variables, and functions
 Task6-Create a script that creates a new local variable
 Task7-Create a script that creates a new global variable
+Task8-Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
