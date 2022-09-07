@@ -12,3 +12,4 @@ Task10-Write a script that displays the result of BREATH to the power LOVE
 Task11-Write a script that converts a number from base 2 to base 10
 Task12-Create a script that prints all possible combinations of two letters, except oo
 Task13-Write a script that prints a number with two decimal places, followed by a new line.
+Task14-Write a script that converts a number from base 10 to base 16
