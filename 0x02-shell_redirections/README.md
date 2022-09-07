@@ -7,3 +7,4 @@
 7. Write a shell script that creates a file named... containing the text Best School ending by a new line.
 8. Save current state of directory
 9. Write a script that duplicates the last line of the file iacta
+10. No more javascript
