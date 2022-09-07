@@ -1,2 +1,2 @@
 #!/bin/bash
-echo %sn {a..z}{a..z} | grep -v "oo"
+echo %s "{a..z}{a..z}" | grep -v "oo"
