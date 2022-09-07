@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $(cut -c1 | tr -d " 
-")
+cut -b 1 | tr -d 
