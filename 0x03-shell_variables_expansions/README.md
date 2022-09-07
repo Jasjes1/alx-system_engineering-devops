@@ -14,3 +14,4 @@ Task12-Create a script that prints all possible combinations of two letters, exc
 Task13-Write a script that prints a number with two decimal places, followed by a new line.
 Task14-Write a script that converts a number from base 10 to base 16
 Task15-Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII
+Task16-Write a script that prints every other line from the input, starting with the first line.
