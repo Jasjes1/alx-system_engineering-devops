@@ -20,3 +20,4 @@
 20. Create a script that removes all letters c and C from input
 21. Write a script that reverse its input
 22. DJ Cut Killer
+23. Empty casks make the most noise
