@@ -10,3 +10,4 @@ Task8-Write a script that prints the result of the addition of 128 with the valu
 Task9-Write a script that prints the result of POWER divided by DIVIDE
 Task10-Write a script that displays the result of BREATH to the power LOVE
 Task11-Write a script that converts a number from base 2 to base 10
+Task12-Create a script that prints all possible combinations of two letters, except oo
